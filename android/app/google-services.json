@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "602636559852",
+    "project_id": "delivery-app-be449",
+    "storage_bucket": "delivery-app-be449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602636559852:android:83d264cde49f447a044cc9",
+        "android_client_info": {
+          "package_name": "com.deliveryapp.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602636559852-5uqdpk20gmiq4ri0n804nnq5v58j0m6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliveryapp.customer",
+            "certificate_hash": "e1be9ddbe5041970f2976ecaceb6a2ce4f5e4c11"
+          }
+        },
+        {
+          "client_id": "602636559852-fid43igiqh7q7d5r8vep33a8iv7s3gc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNyb2bjogjHf4wHjLWepW8wHMNSyC-GQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602636559852-fid43igiqh7q7d5r8vep33a8iv7s3gc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602636559852-e7jpcvt0ag7k00f00h2re3d353s9ug77.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deliveryapp.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602636559852:android:fe29e46e9e07c2be044cc9",
+        "android_client_info": {
+          "package_name": "com.deliveryapp.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602636559852-fid43igiqh7q7d5r8vep33a8iv7s3gc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNyb2bjogjHf4wHjLWepW8wHMNSyC-GQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602636559852-fid43igiqh7q7d5r8vep33a8iv7s3gc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602636559852-e7jpcvt0ag7k00f00h2re3d353s9ug77.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deliveryapp.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
